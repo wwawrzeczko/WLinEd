@@ -5,7 +5,7 @@ WLinEd is a simple line editor - a console application writen in order to learn 
 It is intended to allow editing lines of text in a text file (It is a try to write something similar to other line editors like edlin or ed).
 
 Usage: 
-wlined.exe <filename> [< makro.file][ > PRN|/dev/lpt]
+wlined.exe &lt; filename > [< makro.file][ > PRN|/dev/lpt]
 
 A makro file contains commands as you type them.
 If commands needs additional string, type it in the next line
