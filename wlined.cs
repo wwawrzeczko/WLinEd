@@ -211,7 +211,7 @@ class CmdQuit : EditorCommand
 
 
 /*-------------------------------------------
- * Just dispaly help
+ * Just dispalys help
  *
  * 
  *-------------------------------------------
@@ -234,7 +234,7 @@ class CmdCallHelp : EditorCommand
 
 
 /*-------------------------------------------
- * Delete line or lines
+ * Deletes line or lines
  *
  * 
  *-------------------------------------------
@@ -326,7 +326,7 @@ class CmdInsertFile : EditorCommand
 }
 
 /*-------------------------------------------
- * Print text without line numbers (can be redirected to printer)
+ * Prints text without line numbers (can be redirected to printer)
  *
  * 
  *-------------------------------------------
