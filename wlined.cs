@@ -1,5 +1,4 @@
-// wlined - wojtek line editor
-// it is a try to create edlin-like clone in C#  
+// WLinEd - W's Line Editor
 // (c) Wojciech Wawrzeczko 2022
 // License: MIT
 
