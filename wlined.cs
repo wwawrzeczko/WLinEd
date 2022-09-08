@@ -618,8 +618,8 @@ class wlined
 class texts 
 {
 
-    public const string title = "WLinEd - Wojtek Line Editor";
-    public const string copyright = "(c) Wojciech Wawrzeczko 2022";
+    public const string title = "WLinEd - W's Line Editor";
+    public const string copyright = "Copyright (c) 2022 Wojciech Wawrzeczko";
     public const string license = "MIT License";
 
     // using @ for verbatim-multiline string
