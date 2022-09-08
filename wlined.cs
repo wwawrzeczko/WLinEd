@@ -1,5 +1,5 @@
 // WLinEd - W's Line Editor
-// (c) Wojciech Wawrzeczko 2022
+// Copyright (c) 2022 Wojciech Wawrzeczko
 // License: MIT
 
 using System;
